@@ -1,4 +1,4 @@
-# 
+# AI-powered Liquidity Bot for birdeye sniper bot | pump-detection & back-running offers the most advanced birdeye sniper bot, with pump-detection and back-running. Ideal for
 
 
 
